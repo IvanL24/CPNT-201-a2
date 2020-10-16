@@ -1,0 +1,66 @@
+
+body {
+  max-width: 1500px;
+}
+
+.top {
+  background-color: rgb(202, 225, 255);
+}
+
+.top .logo {
+  background-image: url(./img/logo/kisspng-t-shirt-mobile-suit-gundam-unicorn-gundam-model-gn-font-design-and-red-background-5adcca19684bc9.2597323815244190974272.png);
+  background-position: center;
+  background-size: cover;
+  height: 5rem;
+  width: 5rem;
+}
+
+.contents .rx78 .blog1 .box1 {
+  border: 2px solid red;
+  
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 75%;
+}
+
+.contents .mgex .blog2 .box2 {
+  border: 2px solid red;
+  
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 75%;
+}
+
+.contents .tallgeese .blog3 .box3 {
+  border: 2px solid red;
+  
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 75%;
+}
+
+.contents .physalis .blog4 .box4 {
+  border: 2px solid red;
+  
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 75%;
+}
+
+.contents .universe .blog5 .box5 {
+  border: 2px solid red;
+  
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 75%;
+}
+
+.contents > div img {
+  width: 100%;
+  height: auto;
+}
