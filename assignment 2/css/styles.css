@@ -1,41 +1,52 @@
 body {
+
   width: 100%;
+
   background-color:  rgb(202, 225, 255);
+
 }
 
 .top {
+
+  flex-direction: column;
+
   border-bottom: 6px solid rgb(27, 119, 240);
   border-top: 6px solid rgb(27, 119, 240);
 
   background-color: rgb(128, 174, 235);
-  flex-direction: column;
+
 }
 
 .top .gunpla h1 {
+  
   letter-spacing: 6px;
   font-weight: 700;
 }
 
 .top .logo {
-  background-image: url(../img/logo/kisspng-t-shirt-mobile-suit-gundam-unicorn-gundam-model-gn-font-design-and-red-background-5adcca19684bc9.2597323815244190974272.png);
-  background-position: center;
-  background-size: cover;
-  height: 6rem;
+
   width: 6rem;
+
+  background-size: cover;
+  background-position: center;
+  background-image: url(../img/logo/kisspng-t-shirt-mobile-suit-gundam-unicorn-gundam-model-gn-font-design-and-red-background-5adcca19684bc9.2597323815244190974272.png);
+
 }
 
 .contents .rx78 .blog1 .box1 {
-  /* border: 2px solid red; */
+  
+  width: 75%;
+
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 75%;
+
   background-color: rgb(235, 235, 235);
 
 }
 
 .contents .mgex .blog2 .box2 {
-  /* border: 2px solid red; */
+  
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -45,31 +56,37 @@ body {
 }
 
 .contents .tallgeese .blog3 .box3 {
-  /* border: 2px solid red; */
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  
   width: 75%;
+  
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
   background-color: rgb(235, 235, 235);
 
 }
 
 .contents .physalis .blog4 .box4 {
-  /* border: 2px solid red; */
+  
+  width: 75%;
+
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 75%;
+  
   background-color: rgb(235, 235, 235);
 
 }
 
 .contents .expo .blog5 .box5 {
-  /* border: 2px solid red; */
+  
+  width: 75%;
+
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 75%;
+  
   background-color: rgb(235, 235, 235);
 
 }
