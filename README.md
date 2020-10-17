@@ -4,6 +4,8 @@
 
 - link to github repo: (https://github.com/IvanL24/CPNT-201-a2.git)
 
+- link to GH pages: (https://ivanl24.github.io/CPNT-201-a2/)
+
 
 resources: [Gundam.Info](https://en.gundam.info/)
 
